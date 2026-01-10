@@ -63,7 +63,14 @@ Potato crops are vulnerable to multiple leaf diseases that significantly affect 
 - Training behavior observable via accuracy/loss trends
 
 ---
+## 📂 Dataset
+Due to GitHub file size limitations, the dataset is hosted externally.
 
+🔗 Dataset Link: https://kaggle.com/your-dataset-link
+
+Download and extract the dataset into:
+data/Potato/
+---
 ## 🚀 How to Run
 ```bash
 # Clone repository
